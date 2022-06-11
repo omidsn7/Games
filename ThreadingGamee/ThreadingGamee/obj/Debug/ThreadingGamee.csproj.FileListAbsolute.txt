@@ -1,0 +1,20 @@
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\bin\Debug\ThreadingGamee.exe.config
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\bin\Debug\ThreadingGamee.exe
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\bin\Debug\ThreadingGamee.pdb
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.Form.resources
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.Properties.Resources.resources
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.csproj.GenerateResource.cache
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.exe
+C:\Users\O_sorayaee\source\repos\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.pdb
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\bin\Debug\ThreadingGamee.exe.config
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\bin\Debug\ThreadingGamee.exe
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\bin\Debug\ThreadingGamee.pdb
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.csproj.SuggestedBindingRedirects.cache
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.Form.resources
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.Properties.Resources.resources
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.csproj.GenerateResource.cache
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.exe
+E:\projects\C#\New folder\ThreadingGamee\ThreadingGamee\obj\Debug\ThreadingGamee.pdb
